@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\parser.h(26,23): warning C4838: Преобразование из "int" в "GLushort" требует сужающего преобразования.
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\parser.h(26,44): warning C4838: Преобразование из "int" в "GLushort" требует сужающего преобразования.
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\parser.h(26,65): warning C4838: Преобразование из "int" в "GLushort" требует сужающего преобразования.
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\parser.h(126,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(81,22): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(82,24): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(86,22): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(87,24): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(90,24): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(91,24): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(92,24): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(95,29): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(96,29): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(97,29): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(98,30): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(99,30): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\main.cpp(100,30): warning C4305: -=: усечение из "double" в "float"
+  SubwaySurf.vcxproj -> C:\Users\Grisha\source\repos\SubwaySurf\SubwaySurf\x64\Debug\SubwaySurf.exe

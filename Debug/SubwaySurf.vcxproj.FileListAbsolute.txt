@@ -1,0 +1,12 @@
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\SubwaySurf.vcxproj.CopyComplete
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\SubwaySurf.exe
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\sfml-system-d-2.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\sfml-window-d-2.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\glew32d.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\sfml-graphics-d-2.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\freetyped.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\zlibd1.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\bz2d.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\libpng16d.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\brotlidec.dll
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\SubwaySurf\Debug\brotlicommon.dll
